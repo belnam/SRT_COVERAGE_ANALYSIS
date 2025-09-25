@@ -1,0 +1,21 @@
+# Python-related ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+.fast/
+
+# IDE and Editor files
+.vscode/
+*.sublime-workspace
+venvactive.txt
+gitigore.txt
+# Git-related
+*.swp
+.DS_Store
+.env
+package-lock.json
+processed_files

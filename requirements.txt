@@ -1,0 +1,14 @@
+fastapi[standard]
+pydantic
+pandas
+datetime
+openpyxl
+requests
+gql
+aiohttp
+matplotlib
+python-dotenv
+tenacity
+sqlmodel
+numpy
+psycopg2
